@@ -23,6 +23,3 @@ Temel özellikler:
 - 📁 Word olarak dışa aktarılabilir raporlar  
 - 🚀 Geliştirici dostu yapı
 
----
-
-[🔝 Başa Dön](#sonkezburada)
