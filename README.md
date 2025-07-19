@@ -36,37 +36,4 @@ Temel özellikler:
 
 ---
 
-## ⚙️ Kurulum
-
-> Gerekli: PHP & Composer
-
-```bash
-# 1. Depoyu klonla
-git clone https://github.com/Burke-sec/sonkezburada
-
-# 2. Projeye gir
-cd sonkezburada
-
-# 3. Bağımlılıkları yükle
-composer install
-```
-
----
-
-## ▶️ Kullanım
-
-```bash
-php {entrypoint}
-```
-
----
-
-## 🧪 Test
-
-```bash
-vendor/bin/phpunit
-```
-
----
-
 [🔝 Başa Dön](#sonkezburada)
