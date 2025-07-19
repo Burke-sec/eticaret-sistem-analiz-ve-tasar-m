@@ -1,2 +1,1 @@
-# sonkezburada
-# sonkezburada
+# SonKezBurada - Basit E-Ticaret Sitesi
