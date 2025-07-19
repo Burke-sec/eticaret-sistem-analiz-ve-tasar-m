@@ -10,17 +10,6 @@
 ## 🔧 Kullanılan Teknolojiler
 - PHP  
 - JavaScript  
-- JSON  
-- Markdown  
-- Less
-
----
-
-## 📚 İçindekiler
-- [Genel Bakış](#genel-bakış)  
-- [Kurulum](#kurulum)  
-- [Kullanım](#kullanım)  
-- [Test](#test)
 
 ---
 
